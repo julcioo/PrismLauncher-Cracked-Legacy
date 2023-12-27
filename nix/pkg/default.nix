@@ -67,7 +67,7 @@ assert lib.assertMsg (stdenv.isLinux || !gamemodeSupport) "gamemodeSupport is on
         their associated options with a simple interface.
       '';
       platforms = with platforms; linux ++ darwin;
-      changelog = "https://github.com/PrismLauncher/PrismLauncher/releases/tag/${version}";
+      changelog = "https://github.com/julcioo/PrismLauncher-Cracked/releases/tag/${version}";
       license = licenses.gpl3Only;
       maintainers = with maintainers; [minion3665 Scrumplex getchoo];
     };
