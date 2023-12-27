@@ -6,6 +6,6 @@
 </picture>
 </p>
 
-<p align="center">
-  This is a cracked version of [PrismLauncher](https://github.com/julcioo/PrismLauncher-Cracked), which is a custom launcher that allows you to easily manage multiple installations of Minecraft at once without owning the game (Fork of [MultiMC](https://github.com/MultiMC/Launcher)).
-</p>
+## About PrismLauncher-Cracked
+
+> This is a cracked version of [PrismLauncher](https://github.com/julcioo/PrismLauncher-Cracked), which is a custom launcher that allows you to easily manage multiple installations of Minecraft at once without owning the game (Fork of [MultiMC](https://github.com/MultiMC/Launcher)).
